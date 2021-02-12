@@ -1,2 +1,2 @@
 # PythonAssignmentLetsUpgrade
-LetsUpgrade.Python Assignment2
+LetsUpgrade.Python Assignment
